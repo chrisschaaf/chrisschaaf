@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chrisschaaf, currently a Sr. Systems Engineer at Cerner!
+- 👀 I’m interested in pursuing skills related to my position, automating infrastructure creation and management.
+- 🌱 I’m currently expanding my skills with Terraform and Ansible.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/chrisschaaf) | [e-mail](cschaaf3894@gmail.com)
